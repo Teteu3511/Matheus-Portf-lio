@@ -1,0 +1,180 @@
+
+	body {
+
+		background: url(../img/bg.png);
+		font-family: "Noto Sans Display", sans-serif;
+
+	}
+
+	header {
+
+		background: linear-gradient(#2a2ae0, #04044C);
+		padding: 55px 30px;
+		border-bottom: 2px solid #FFFFFF;
+
+	}
+
+	#logo1 {
+
+		height: 100px;
+		width: 400px;
+
+	}
+
+	nav {
+
+		width: 700px;
+		height: 40px;
+		position: absolute;
+		left: 900px;
+		top: 87px;
+
+	}
+
+	nav ul {
+
+		width: 700px;
+		height: 40px;
+
+	}
+
+	nav a {
+
+		text-decoration: none;
+		color: #FFFFFF;
+		font-size: 30px;
+
+	}
+
+	nav a:hover {
+
+		color: #999393;
+		transform: 0.5s;
+		
+	}
+
+	nav li {
+
+		display: inline;
+		margin: 0 0 0 40px;
+
+	}
+
+	.conteudo {
+
+		display: inline-block;
+		font-family: 'Arial', sans-serif;
+		background: #04044C;
+		color: #FFFFFF;
+		text-align: center;
+		padding: 2em 0 2em 0;
+		margin: 100px 200px;
+		border: 4px groove #FFFFFF;
+		border-radius: 20px;
+
+	}
+
+	h2 {
+
+		font-size: 40px;
+		font-weight: bold;
+
+	}
+
+	p {
+
+		font-size: 24px;
+		padding: 40px;
+
+	}
+
+	.conteudo img {
+
+		display: inline-block;
+		margin: 2em;
+		width: 30%;
+		border: 2px solid #FFFFFF;
+		border-radius: 25px;
+
+	}
+
+	.conteudo img:hover {
+
+		transform: scale(1.1);
+		transition: 0.5s;
+
+	}
+
+	#logh {
+
+		height: 624px;
+
+	}
+
+	#his {
+
+		height: 290px;
+
+	}
+
+	#vol {
+
+		width: 402px;
+		height: 300px;
+
+	}
+
+	#ps4 {
+
+		height: 300px;
+
+	}
+
+	#pro {
+
+		width: 50%;
+
+	}
+
+	#uk {
+
+		height: 250px;
+		width: 350px;
+
+	}
+
+	#dsk {
+
+		width: 350px;
+		height: 250px;
+
+	}
+
+	#huh {
+
+		width: 350px;
+		height: 250px;
+
+	}
+
+	footer {
+
+		padding: 40px 0;
+		text-align: center;
+		background: linear-gradient(#04044C, #2a2ae0);
+		border-top: 2px solid #FFFFFF;
+
+	}
+
+	#logo2 {
+
+		width: 10%;
+
+	}
+
+	.copyright {
+
+		color: #FFFFFF;
+		font-size: 23px;
+		
+	}
